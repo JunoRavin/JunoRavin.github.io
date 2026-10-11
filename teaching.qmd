@@ -4,7 +4,7 @@ title: "Teaching"
 
 ## Lecture materials
 
-**Computational lectures on magnetic reconnection** *(in preparation)*<br>
+**[Computational lectures on magnetic reconnection](https://junoravin.github.io/reconnection-lectures/)**<br>
 Self-contained lectures on Sweet–Parker scaling and fast reconnection, worked
 through with multi-fluid simulations in [Gkeyll](https://github.com/gkeyllorg/gkeyll)
 and analyzed with [postgkyl](https://github.com/gkeyllorg/postgkyl), including
