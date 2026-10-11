@@ -1,0 +1,63 @@
+---
+title: "James (Jimmy) Juno"
+subtitle: "Incoming Assistant Professor<br>West Virginia University"
+image: images/headshot.jpg
+image-alt: "Portrait of James (Jimmy) Juno"
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 13em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:james.juno@mail.wvu.edu
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=5xPBjHkAAAAJ
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0001-6835-273X
+    - icon: github
+      text: GitHub
+      href: https://github.com/JunoRavin
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/junoravin.bsky.social
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jimmy-juno-05934795/
+    - icon: twitter-x
+      text: X
+      href: https://x.com/JunoRavin
+---
+
+I am a computational plasma physicist at West Virginia University, where I am
+currently a visiting researcher and will join the faculty as an assistant
+professor in January 2027. My group works at the intersection of applied
+mathematics, high-performance computing, and plasma physics. We ask where our
+ability to simulate plasmas falls short, and build the numerical methods and
+software, including the open-source [Gkeyll](https://github.com/gkeyllorg/gkeyll)
+framework, that make new regimes accessible to modeling. We use these tools to
+understand how the smallest scales of a plasma, where individual particle
+motions give rise to collective behavior, shape the large-scale evolution of
+systems as different as the Sun, accretion disks around black holes, and the
+interior of fusion reactors, and we develop theories and predictions for these
+systems together with observers and experimentalists. We also bring formal
+verification from theoretical computer science to machine learning, building
+[provably correct neural networks](https://arxiv.org/abs/2602.14853) and
+certifiably correct code, so that artificial intelligence can accelerate plasma
+physics in ways we can trust.
+
+::: {.under-construction}
+This site is under construction.
+:::
+
+## Prospective students
+
+I am recruiting graduate students. If you are interested in joining the group,
+email me at [james.juno@mail.wvu.edu](mailto:james.juno@mail.wvu.edu).
+Opportunities for undergraduates are coming soon.
+
+## Contact
+
+Email: [james.juno@mail.wvu.edu](mailto:james.juno@mail.wvu.edu) · [CV (PDF)](files/cv-James-Juno.pdf)

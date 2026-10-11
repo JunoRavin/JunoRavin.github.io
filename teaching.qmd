@@ -1,0 +1,36 @@
+---
+title: "Teaching"
+---
+
+## Lecture materials
+
+**Computational lectures on magnetic reconnection** *(in preparation)*<br>
+Self-contained lectures on Sweet–Parker scaling and fast reconnection, worked
+through with multi-fluid simulations in [Gkeyll](https://github.com/gkeyllorg/gkeyll)
+and analyzed with [postgkyl](https://github.com/gkeyllorg/postgkyl), including
+instructions for installing and running both on your own laptop.
+
+## Courses
+
+::: {.cv-list}
+2025
+: **Lecturer**, PHYS 345: Computational Astrophysics, Rutgers University.<br>
+  Designed and taught the full course: assignments, exams, example final
+  projects, and lectures. An introduction to key algorithms in computational
+  astrophysics, their implementation in code, and their application to current
+  research, with extended projects analyzing real data and simulations.
+
+2015, 2016
+: **Teaching assistant**, HONR 268N/L: Cracking the Secrets of the Universe
+  Using Computers, University of Maryland.<br>
+  Helped design the coursework and notes for this experimental course, and
+  supervised a team of undergraduates benchmarking the Vlasov–Maxwell solver
+  in Gkeyll on electron-scale kinetic instabilities.
+
+2015
+: **Grader**, PHYS 761: Plasma Physics I, University of Maryland.
+
+2014
+: **Teaching assistant**, PHYS 270: Electrodynamics, Light, Relativity and
+  Modern Physics, University of Maryland.
+:::

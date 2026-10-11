@@ -1,0 +1,8 @@
+/.quarto/
+/_site/
+.DS_Store
+
+**/*.quarto_ipynb
+
+# CV sources (private; only the built PDF in files/ is published)
+/CV-Jimmy/

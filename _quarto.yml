@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Jimmy Juno"
+  site-url: https://junoravin.github.io
+  description: "Computational plasma physics — James (Jimmy) Juno, West Virginia University."
+  navbar:
+    left:
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: files/cv-James-Juno.pdf
+  page-footer:
+    left: "© 2026 James Juno"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: [cosmo, styles/wvu.scss]
+    toc: false
+    smooth-scroll: true
